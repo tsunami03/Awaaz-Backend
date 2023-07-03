@@ -2,6 +2,8 @@
 
 Awaaz is a web application that provides a platform for users to communicate and address grievances. It simplifies the process of listing and managing grievances, allowing users to interact with admins and seek resolutions. The application is built using ReactJS for the frontend, NodeJS for the backend, MongoDB as the database, and Tailwind CSS for styling.
 
+[Click here to visit Frontend Repo.](http://github.com/tsunami03/Awaaz-Frontend)
+
 ## Features
 
 - **User Registration and Login:** Users can register and login to the portal using their credentials, which allows them to submit and manage grievances.
